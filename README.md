@@ -8,3 +8,4 @@ berisikan file :
 - dashboard.py
 - day.csv
 - requirements.txt
+- README.md
