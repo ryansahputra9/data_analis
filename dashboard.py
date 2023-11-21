@@ -172,7 +172,7 @@ st.info(
 )
 
 # Watermark
-watermark_text = "Dibuat dengan cinta dan sakit kepala demi memenuhi tugas dan kewajiban dari dicoding, salam santun, kecup hangat di keningmu :)"
+watermark_text = "Dibuat dengan cinta dan sakit kepala oleh Ryan Sahputra, demi memenuhi tugas dan kewajiban dari dicoding, salam santun, kecup hangat di keningmu :)"
 st.markdown(
     f'<div style="position: fixed; bottom: 0; left: 50%; transform: translateX(-50%); text-align: center; width: 100%; background-color: #f0f0f0; padding: 5px; font-size: 15px; color: #888;">{watermark_text}</div>',
     unsafe_allow_html=True,
